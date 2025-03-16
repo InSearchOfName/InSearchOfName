@@ -17,7 +17,6 @@ I'm currently pursuing a **Bachelor’s degree in Applied Computer Science**, sp
 
 - Cybersecurity & ethical hacking (HackTheBox challenges 🏴‍☠️)
 - Advanced cloud architectures & automation
-- DevOps tools & best practices
 
 ## 📫 Get in Touch
 
