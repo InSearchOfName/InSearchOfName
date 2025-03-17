@@ -15,8 +15,9 @@ I'm currently pursuing a **Bachelor’s degree in Applied Computer Science**, sp
 
 ## 🔍 Currently Exploring
 
-- Cybersecurity & ethical hacking (HackTheBox challenges 🏴‍☠️)
-- Advanced cloud architectures & automation
+- 🏴‍☠️ Cybersecurity & Ethical Hacking – Tackling real-world security challenges on HackTheBox.
+- 🎯 Capture The Flag (CTF) Challenges – Sharpening my skills in reverse engineering, cryptography, web exploitation, and forensics.
+- ☁ Advanced Cloud Architectures & Automation – Experimenting with IaC (Infrastructure as Code), serverless computing, and cloud security best practices.
 
 ## 📫 Get in Touch
 
