@@ -23,6 +23,5 @@ I'm currently pursuing a **Bachelor’s degree in Applied Computer Science**, sp
 
 If you're into **cloud computing, cybersecurity, or just want to talk tech**, feel free to connect with me!
 
-📧 Email: [tommyq70@gmail.com](mailto\:tommyq70@gmail.com)\
 💼 LinkedIn: [www.linkedin.com/in/tommy-quatretemps/](http://www.linkedin.com/in/tommy-quatretemps/)
 
