@@ -11,13 +11,11 @@ I'm currently pursuing a **Bachelor’s degree in Applied Computer Science**, sp
 - ☁ **Cloud Computing** – Passionate about cloud technologies and server management.
 - 🔧 **Systems & Network Engineering** – Designing and maintaining networks, ensuring efficiency and security.
 - ☕ **Java Development** – Developed **Minecraft plugins**, gaining hands-on coding experience.
-- 🛡 **Cybersecurity Enthusiast** – Exploring penetration testing & ethical hacking via **HackTheBox**.
 
 ## 🔍 Currently Exploring
 
-- 🏴‍☠️ Cybersecurity & Ethical Hacking – Tackling real-world security challenges on HackTheBox.
-- 🎯 Capture The Flag (CTF) Challenges – Recently started diving into CTFs, focusing on basic cryptography, web exploitation, and forensics to build my skills.
-- ☁ Advanced Cloud Architectures & Automation – Experimenting with IaC (Infrastructure as Code), serverless computing, and cloud security best practices.
+- ☁ **Advanced Cloud Architectures & Automation** – Experimenting with IaC (Infrastructure as Code), serverless computing, and cloud security best practices.
+- 🐳 **Kubernetes and k3s** – Learning container orchestration, deploying scalable applications, and managing clusters for efficient resource utilization.
 
 ## 📫 Get in Touch
 
