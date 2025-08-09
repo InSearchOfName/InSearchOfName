@@ -21,8 +21,6 @@ I'm currently pursuing a **Bachelor’s degree in Applied Computer Science**, sp
 
 If you're into **cloud computing, cybersecurity, or just want to talk tech**, feel free to connect with me!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=insearchofname&layout=compact&theme=transparent&cache_seconds=1800)
-
 💼 LinkedIn: [www.linkedin.com/in/tommy-quatretemps/](http://www.linkedin.com/in/tommy-quatretemps/)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=insearchofname&layout=compact&theme=transparent&cache_seconds=1800)
