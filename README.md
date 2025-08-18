@@ -24,3 +24,5 @@ If you're into **cloud computing, cybersecurity, or just want to talk tech**, fe
 💼 LinkedIn: [www.linkedin.com/in/tommy-quatretemps/](http://www.linkedin.com/in/tommy-quatretemps/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=insearchofname&layout=compact&theme=transparent&cache_seconds=1800)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=insearchofname&show_icons=true&theme=transparent&count_private=true&hide=stars&include_all_commits=true&rank_icon=github&cache_seconds=1800)
