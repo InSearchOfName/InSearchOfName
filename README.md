@@ -16,6 +16,7 @@ I'm currently pursuing a **Bachelor’s degree in Applied Computer Science**, sp
 
 - ☁ **Advanced Cloud Architectures & Automation** – Experimenting with IaC (Infrastructure as Code), serverless computing, and cloud security best practices.
 - 🐳 **Kubernetes and k3s** – Learning container orchestration, deploying scalable applications, and managing clusters for efficient resource utilization.
+- 💀 **Reverse Engineering** - Learning reverse engineering to learn more about how applications work low-level and (and cause i think its kinda cool)
 
 ## 📫 Get in Touch
 
