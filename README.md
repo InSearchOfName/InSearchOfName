@@ -20,6 +20,6 @@ I'm a **Bachelor's graduate in Applied Computer Science**, specialized in **Syst
 
 If you're into **cloud computing, cybersecurity, low-level development, or just want to talk tech**, feel free to connect with me!
 
-![Top Langs](https://github-readme-stats-fast-three-pi.vercel.app/api/top-langs/?username=InSearchOfName\&layout=compact\&theme=transparent\&cache_seconds=1800)
+![Top Langs](https://github-readme-stats-fast-three-pi.vercel.app/api/top-langs/?username=InSearchOfName\&layout=compact\&theme=transparent\&cache_seconds=28)
 
 ![GitHub stats](https://github-readme-stats-fast-three-pi.vercel.app/api?username=InSearchOfName\&show_icons=true\&theme=transparent\&count_private=true\&hide=stars\&include_all_commits=true\&rank_icon=github\&cache_seconds=1800)
